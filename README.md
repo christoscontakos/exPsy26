@@ -1,3 +1,3 @@
 # Experimental Psycholinguistics 2026 (Aarhus University)
 
-Created with Jupyter.
+Created with Jupyter on SDU's Ucloud.
