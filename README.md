@@ -1,3 +1,3 @@
-# exPsy26
+# Experimental Psycholinguistics 2026 (Aarhus University)
 
-Experimental Psycholinguistics 2026 (Aarhus University)
+Created in Jupyter.
